@@ -4,6 +4,6 @@ Task List html template
 
 | Generic Rubric | 4 | 3 | 2 | 1 |
 | --- | --- | --- | --- | --- |
-| Effor |  |  |  |  |
+| Effort |  |  |  |  |
 | Accuracy |  |  |  |  |
 | Timely submission |  |  |  |  |
